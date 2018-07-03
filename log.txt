@@ -1,0 +1,27 @@
+Title: Desperado
+Release Year: 1995
+IMdB Rating: 7.2
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+Country: USA
+Language: English
+Plot: A gunslinger is embroiled in a war with a local drug runner.
+Actors: Antonio Banderas, Salma Hayek, Joaquim de Almeida, Cheech Marin
+Title: The Shawshank Redemption
+Release Year: 1994
+IMdB Rating: 9.3
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+Title: Once
+Release Year: 2007
+IMdB Rating: 7.9
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+Country: Ireland
+Language: English, Czech
+Plot: A modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse and record songs that tell their love story.
+Actors: Glen Hansard, Markéta Irglová, Hugh Walsh, Gerard Hendrick
